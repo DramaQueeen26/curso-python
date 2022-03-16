@@ -15,3 +15,5 @@ y = 2
 z = x + y
 
 print(z)
+
+print(id(x)) #ID regresa la direccion de memoria de la variable

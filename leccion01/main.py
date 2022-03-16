@@ -2,11 +2,16 @@
 
 #Para declarar una variable en python
 
-miVariable = 1
+# miVariable = 1
 
-print (miVariable)
+# print (miVariable)
 
-miVariable = "Hola mundo desde python"
+# miVariable = "Hola mundo desde python"
 
-print (miVariable)
+# print (miVariable)
 
+x = 10
+y = 2
+z = x + y
+
+print(z)

@@ -6,7 +6,7 @@ operandoB = 2
 suma = operandoA + operandoB
 
 #Otra manera de usar print pero no me funciona, supongo que es porque 
-#estoy trabajando con la version 2.7 de pytho
+#estoy trabajando con la version 2.7 de python
 #print(f'Resultado de la suma: {suma}')
 
 print('Resultado de la suma: ' + str(suma))
